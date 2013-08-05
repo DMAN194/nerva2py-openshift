@@ -29,7 +29,7 @@ Database support
 
 Sqlite support:
 
-default, separated data directory. The databases in the data directory the auto upgrade does not delete it. More databases can be created.
+Default, there is a separated data directory. The databases in the data directory the auto upgrade does not delete it. More databases can be created.
 
 Postgesql support:
 
