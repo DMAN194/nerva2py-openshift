@@ -37,3 +37,4 @@ MySql support:
 
     rhc cartridge add mysql-5.1 -a nervatura
 
+Additional description can be found here: 
