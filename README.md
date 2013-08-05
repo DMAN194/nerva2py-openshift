@@ -7,4 +7,6 @@ This git repository is a Nervatura template to help you get started with using P
 
 The template is base on the OpenShift Community Python 2.7 Cartridge (https://github.com/openshift/openshift-community-cartridge-python-2.7) and install the last Nervatura Framework version (https://github.com/nervatura/nerva2py).
 
+Checks it at the time of a startup and installs the latest Nervatura version (optional, default setting).
+
 
