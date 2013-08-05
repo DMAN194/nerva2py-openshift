@@ -27,7 +27,8 @@ Learn more at http://www.nervatura.com.
 Database support
 ----------------------------
 
-Sqlite support: 
+Sqlite support:
+
 default, separated data directory. The databases in the data directory the auto upgrade does not delete it. More databases can be created.
 
 Postgesql support:
