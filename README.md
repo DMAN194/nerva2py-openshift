@@ -24,4 +24,13 @@ That's it, you can now checkout your application at:
 
 Learn more at http://www.nervatura.com.
 
+Database support
+----------------------------
 
+Sqlite support: default, separated data directory. The databases in the data directory the auto upgrade does not delete it. More databases can be created.
+
+Postgesql support:
+    rhc cartridge add postgresql-9.2 -a nervatura
+
+MySql support:
+    rhc cartridge add mysql-5.1 -a nervatura
