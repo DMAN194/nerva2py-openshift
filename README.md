@@ -33,8 +33,12 @@ Postgesql support:
 
     rhc cartridge add postgresql-9.2 -a nervatura
 
+For each application you can configure only one postgresql database! (OpenShift restriction)
+
 MySql support:
 
     rhc cartridge add mysql-5.1 -a nervatura
+
+For each application you can configure only one mysql database! (OpenShift restriction)
 
 Additional description can be found here: http://nervatura.com/nervapage/default/community_setup_openshift
